@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Blank text
+=======
+This is a file to check commit and push
+>>>>>>> 4ac4186 (Initial Commit)
